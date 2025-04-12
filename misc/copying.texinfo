@@ -2,14 +2,14 @@
 ``@value{bookletTitle}'' booklet is for @cuis{} (@value{cuisVersion}), a free and modern
 implementation of the Smalltalk language and environment.
 
-Copyright @copyright{} 2024 @value{writers}
+Copyright @copyright{} 2025 @value{writers}
 @*
 @thanks{}
 @*
 
 Compilation : @today{}
 
-Documentation source: @url{https://github.com/Cuis-Smalltalk/Cuis-Booklets} 
+Documentation source: @url{https://github.com/DrCuis/Template-booklet} 
 
 The contents of this booklet are protected under Creative Commons
 Attribution-ShareAlike 4.0 International.
