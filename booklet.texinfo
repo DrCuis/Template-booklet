@@ -9,7 +9,7 @@
    @subtitle Learn about...
    @* @* @* @*
 
-   @alanQuoteAboutCuis
+   @bookQuote
    @author @value{writers}
 
 @iftex
@@ -20,13 +20,12 @@
 @end titlepage
 
 @iftex
-   @shortcontents
    @contents
 @end iftex
 
 @node Top
 
-@alanQuoteAboutCuis
+@bookQuote
 
 @*
 
